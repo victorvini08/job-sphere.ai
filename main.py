@@ -1,5 +1,12 @@
 import streamlit as st
+import sys
+import os
 from graph import create_graph
+
+# TODO: Need to add error handling for all files
+
+parent_dir = os.path.dirname(os.path.abspath(sys.argv[0])) 
+sys.path.append(parent_dir)
 
 compiled_graph = create_graph()
 
@@ -22,7 +29,8 @@ if not st.session_state.form_submitted:
         
         salary = st.number_input("Minimum Salary Expectation (in INR)", min_value=0, step=100000)
         
-        location = st.text_input("Location", placeholder="Preferred country/location for job")
+        location = st.text_input("Location", placeholder="Preferred location for the job. Format = Location, Country")
+
         company_size_options = ["Startup", "Small/Medium Enterprise", "MNC", "Any"]
         company_size = st.selectbox("Preferred Company Size", company_size_options)
         
