@@ -1,1 +1,541 @@
-{"status": "OK", "request_id": "91afdc7d-0b3a-4774-836d-9778348f4cb7", "parameters": {"query": "software engineer jobs in MNCs at bangalore", "page": 1, "num_pages": 1, "date_posted": "all", "country": "in", "language": "en"}, "data": [{"job_id": "PG0RG6pYwlWcUlweAAAAAA==", "job_title": "Software Engineer (Java, Spring & Microservices)", "employer_name": "Fragma Data Systems", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojpIJrKB8L1rzQqyN091QPYxD108HNkK2-c7G&s=0", "employer_website": "https://fragmadata.com", "job_publisher": "Cutshort", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://cutshort.io/job/Software-Engineer-Java-Spring-Microservices-Bengaluru-Bangalore-Fragma-Data-Systems-CsQmRhD0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": true, "apply_options": [{"publisher": "Cutshort", "apply_link": "https://cutshort.io/job/Software-Engineer-Java-Spring-Microservices-Bengaluru-Bangalore-Fragma-Data-Systems-CsQmRhD0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": true}, {"publisher": "Adzuna", "apply_link": "https://www.adzuna.in/details/2635526537?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Work Location: Indira Nagar, Bangalore\nWork Days: Sunday to Thursday OR Monday to Friday\nShift: Day Time\nWeek Off: Friday & Saturday OR Saturday & Sunday\n\nJD:\n\nDevelopment of applications in Java including:\nBuilding data processing platforms.\nDeveloping micro service-oriented applications (Mandatory).\nInteract with stakeholders of the applications being developed.\n\nDesired Candidate Profile:\nMust have experience in Java JEE, Spring Framework, Microservices (Mandator)\nExperience in SQL and JDBC\nExperience in build tools Maven, git\nExperience in Cloud Platforms AWS, Azure is a plus.", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DPG0RG6pYwlWcUlweAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_min_salary": null, "job_max_salary": null, "job_salary_period": "YEAR", "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "r-2xAkWefbTIqZ9SAAAAAA==", "job_title": "Staff Software Engineer (Front End)", "employer_name": "Intuit", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLPTq0ZdkmbDVudg_26E0tbjmyjcg5h5VZka3&s=0", "employer_website": "https://www.intuit.com", "job_publisher": "Instahyre", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://www.instahyre.com/job-366731-staff-software-engineer-front-end-at-intuit-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "Instahyre", "apply_link": "https://www.instahyre.com/job-366731-staff-software-engineer-front-end-at-intuit-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Jobs.weekday.works", "apply_link": "https://jobs.weekday.works/wayfair-software-engineer-ii-(front-end)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": true}, {"publisher": "BeBee", "apply_link": "https://in.bebee.com/job/bf9ed8aed98a0a5d5b36ad99748a49a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Jobrapido.com", "apply_link": "https://in.jobrapido.com/jobpreview/8707465173759164416?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Come join the Virtual Expert Platform (VEP) as a Staff Engineer, where you will lead technology innovation to build platforms at scale that help transform the lives of consumers, small businesses, and accountants by connecting our customers to experts across all Intuit product lines. VEP powers AI-driven expert networks and delivers GenAI-powered experiences.\n\nResponsibilities:\n\u2022 Gathering functional requirements, developing technical specifications, and project and test planning.\n\u2022 Designing/developing Applications, prototypes, or proofs of concepts (POC's).\n\u2022 Demonstrate tech leadership: Mentoring junior engineers, new team members, and applying technical expertise to challenging programming and design problems.\n\u2022 Ability to navigate Intuit towards Ecosystems and Platform to be a steward in visioning short- and long-term strategy, trade-offs across business and technology. Own the current and future state and drive delivery through clear and bite-sized steps.\n\u2022 Support execution teams with complex development and operational challenges through hands-on technical leadership via code design and contributions\n\u2022 Applies left shift mindset and plays various roles of DEV, QE, and Ops throughout the development life cycle and owns the E2E quality of the deliverable.\n\u2022 Work cross-functionally with various Intuit teams: product management, various product lines, or business units to drive forward results.\n\u2022 Contribute to the design and architecture of the project.\n\nRequirements:\n\u2022 Hands-on coding.\n\u2022 Experience with Agile Development, SCRUM methodologies.\n\u2022 10+ years' experience architecting and designing SAAS offerings, leading design for web, software, or mobile applications.\n\u2022 Hands-on (50% time spent on coding/code reviews).\n\u2022 B. Tech/M. Tech in computer science or equivalent work experience.\n\u2022 Extensive experience working on modern front-end frameworks, React/Angular, and have an in-depth understanding of rendering performance.\n\u2022 Experience in the Domain-driven model and hexagonal architecture.\n\u2022 Experience with JavaScript/ TypeScript, CSS, and responsive design skills.\n\u2022 Extensive experience working on Morden front-end frameworks, React/Angular, and have an in-depth understanding of rendering performance. In addition, have experience working on AWS, RESTful or GraphQL-based web services with Java, Spring Boot, and DynamoDB.\n\u2022 Strong understanding of the software design/architecture process.\n\u2022 \"Self-starter\" attitude with a willingness to dive in and figure things out.\n\u2022 High Rigor on Operational and Engineering excellence.\n\u2022 Experience with leveraging, contributing to, and leading open source community projects.\n\u2022 Futuristic, strategic, and analytical thinker who is hypothesis-driven and uses data, judgment, and pattern recognition for learning and moving quickly.\n\u2022 Excellent communication and presentation skills: Demonstrated ability to explain complex issues to both technical and non-technical audiences.", "job_is_remote": false, "job_posted_at": "11 days ago", "job_posted_at_timestamp": 1744156800, "job_posted_at_datetime_utc": "2025-04-09T00:00:00.000Z", "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3Dr-2xAkWefbTIqZ9SAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113400", "job_onet_job_zone": "3"}, {"job_id": "9vIBMdCvTVFzgyx7AAAAAA==", "job_title": "Software Engineer (Backend)", "employer_name": "Qrata", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH78SIps09afDotFZ8W2aD88cYEsUr-D8Ce6C&s=0", "employer_website": "https://www.qrata.ai", "job_publisher": "Cutshort", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://cutshort.io/job/Software-Engineer-Backend-Bengaluru-Bangalore-Qrata-Thead6mp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": true, "apply_options": [{"publisher": "Cutshort", "apply_link": "https://cutshort.io/job/Software-Engineer-Backend-Bengaluru-Bangalore-Qrata-Thead6mp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": true}, {"publisher": "Instahyre", "apply_link": "https://www.instahyre.com/job-357243-software-engineer-backend-at-postman-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Company Overview:\n\nCompany is building a first-of-its-kind, lifestyle health product for Women in\nIndia. We believe that the future of health and fitness is digital, and women will drive the\ndigital fitness revolution in India. Existing digital health and fitness products are highly\ntransactional and we see a huge opportunity to build a truly aspirational product that will\ninspire and empower millions of women to lead healthier lives. If you are passionate about\nbuilding a product that blends together technology, content, and community, we would love\nto talk to you.\n\nEngineering:\n\nCompany is looking for results-oriented Engineers. An ideal candidate for us would be\na passionate builder of great products/frameworks and someone who would thrive in a\nfast-paced environment and enjoy the challenge of complex business contexts that are\ntypically being defined in real-time.\nIn this role, you will be responsible for building world-class technology products and\nplatforms that are at the forefront of the technology revolution in the Indian healthcare\necosystem. You are someone who insists on the highest standards for quality,\nmaintainability, and performance. You will be working in a fast-paced and agile work\nenvironment delivering quality solutions that have an immediate business impact.\n\nResponsibilities :\n\n\u25cf Research, design and build highly reliable, available, and scalable solutions that can\nhandle Millions of API calls across systems.\n\u25cf Own large technical deliverables and execute in a structured manner, complete\nownership of functional Services that your team is responsible for.\n\u25cf Take the accountability of the overall health of the products you build and\npredictability of the deliverables of your team\n\u25cf Lead by example, mentor and guide team members on everything from structured\nproblem solving to development of best practices\n\u25cf Platformize components as libraries, utilities and servicify and promote reuse.\n\u25cf Be able to conceptualize and develop prototypes quickly\n\u25cf Drive the technical roadmap of the team in collaboration with Product and Business\nTeams.\n\nRequirements:\n\n\u25cf BTech, MTech in Computer Science or a related technical discipline (or equivalent).\nOr high technical acumen and rich technical experience.\n\u25cf Deep expertise with any or combination programming languages: Java, Node.js,\nGolang, JavaScript, any object-oriented high-level proprietary or open-source\nlanguage with strong programming constructs. Substantial experience in building\ncomplex and scalable solutions.\n\u25cf Strong object-oriented design skills, ability to apply design patterns, and ability to\ndesign intuitive module and class-level interfaces\n\u25cf The ability to independently lead problem-solving and build elegant, maintainable\nsolutions to complex problems.\n\u25cf Experience leading multi-engineer projects and mentoring junior engineers\n\u25cf Experience with full life cycle development in any programming language on a Linux\nplatform\n\u25cf Prior experience in working with Agile software methodologies ( Scrum, Kanban),\nTDD, and Continuous Integration(CI/CD) a plus.\n\u25cf Experience in building data-driven web application design and development is a plus\n\u25cf Expert level experience in building a scalable, large, and complex business\napplication using some of the above technologies and mentoring junior engineers.\n\u25cf Track record of building and delivering mission-critical, 24x7 production software\nsystems", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D9vIBMdCvTVFzgyx7AAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_min_salary": null, "job_max_salary": null, "job_salary_period": "YEAR", "job_highlights": {}, "job_onet_soc": "15113300", "job_onet_job_zone": "4"}, {"job_id": "mp40Ui8vtlafUCyLAAAAAA==", "job_title": "Remote Software Jobs in Bangalore", "employer_name": "Turing.com", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0", "employer_website": "https://www.turing.com", "job_publisher": "Turing", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://www.turing.com/jobs/remote-jobs-in-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "Turing", "apply_link": "https://www.turing.com/jobs/remote-jobs-in-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "We, at Turing, are looking for experienced full-stack developers who will be responsible for designing engaging user interactions, developing and deploying comprehensive databases, and ensuring the responsiveness and scalability of applications or websites. Here\u2019s your chance to collaborate with our global software engineering team with remote jobs in Bangalore and work with top U.S. companies.", "job_is_remote": true, "job_posted_at": "3 days ago", "job_posted_at_timestamp": 1744848000, "job_posted_at_datetime_utc": "2025-04-17T00:00:00.000Z", "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3Dmp40Ui8vtlafUCyLAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "hALW2bxzfw3fttPeAAAAAA==", "job_title": "Position title Senior Engineer- Java Platform Engineering (SDE2)", "employer_name": "Digit88 Technologies", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRWyMCnFhzQ5X4-Rq-rCKJ3yRf5kHMDGuZokm&s=0", "employer_website": "https://www.digit88.com", "job_publisher": "LinkedIn", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://in.linkedin.com/jobs/view/position-title-senior-engineer-java-platform-engineering-sde2-at-digit88-technologies-4074120432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "LinkedIn", "apply_link": "https://in.linkedin.com/jobs/view/position-title-senior-engineer-java-platform-engineering-sde2-at-digit88-technologies-4074120432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "About Digit88\n\nDigit88 is a niche product engineering consulting company based out of Bangalore with experience of building offshore development centers for US startups and MNCs since 2014. The founding team has 50 years of product engineering and services experience out of India, China and the US.\n\nThe Opportunity\n\nDigit88 manages and is expanding the dedicated offshore product development team for its US (Bay Area, NYC) based NLP/Chatbot platform development partner, that is building a next-generation AI/NLP/Chatbots based customer engagement platform. The candidate would be joining an existing team of 45 engineers and help expand the Platform Engineering and Production Support services for our client, assume technical leadership of the highly scalable and available messaging platform that connects the conversational AI platform to human agents.\n\nJob Profile\n\nDigit88 is looking for an enthusiastic, self-motivated, hands-on Java/J2EE platform engineer to join the back-end platform engineering team for our partner. Experience with a fast-paced India/US product start-up or a product engineering services company in a developer role, building a high-performance real-time system is mandatory. Applicants having experience in developing and maintaining large scale messaging platforms are preferred. Applicants must have a passion for engineering with accuracy and efficiency, be highly motivated and organized, able to work as part of a team, and also possess the ability to work independently with minimal supervision.\n\nTo be successful in this role, you should possess\n\nBachelor's degree in Computer Science or a related field with 6-10 years hands-on experience with Java based open source tech stack\n\nExpertise in Core Java, Data Structures, J2EE with proven expertise in Spring MVC, Spring boot, Microservices architecture, Web Services (Rest) in distributed systems\n\nPractical experience with MySQL and/or NoSQL databases like Couchbase, DynamoDB, Cassandra\n\nPractical experience with Caching frameworks Memcached/Redis, Message Queues (JMS, RabbitMQ)\n\nExperience in building high performance, high availability REST APIs and REST clients\n\nExpertise with log file analysis using one or more of ELK, Splunk, Kibana\n\nPrior experience with CI/CD, Container architecture - Docker/Jenkins and build scripts Maven/Ant\n\nExperience with Kubernetes\n\nPrior Experience In Transformation To Cloud Platforms Is Preferred\n\nExperience with Kafka is a definite plus\n\nExperience with building analytics pipeline and analytics DB is a plus\n\nStrong practical experience in applying design patterns, multithreading concepts to solve complex problems, strong problem solving skills\n\nYou are someone who would easily be able to\n\nStudy and learn the latest in AI/NLP/Chatbots domain and the messaging platform\n\nWork closely with the US and India engineering teams to help build the Java/Spring based backend and REST APIs.\n\nClosely collaborate with the principal engineer in the India engineering team in technical excellence and ownership of critical modules; own the development of new modules and features\n\nTroubleshoot live production server issues; assume leadership responsibilities in the production issue resolution lifecycle\n\nHandle client coordination and be able to work as a part of a team, be able to contribute independently and drive the team to exceptional contributions with minimal team supervision\n\nPerform Unit Testing and Integration testing in a Continuous Deployment scenario\n\nFollow Agile methodology, JIRA for work planning, issue management/tracking\n\nAdditional Project/Soft Skills\n\nShould be able to work independently with India & US based team members.\n\nStrong verbal and written communication with ability to articulate problems and solutions over phone and emails.\n\nStrong sense of urgency, with a passion for accuracy and timeliness.\n\nAbility to work calmly in high pressure situations and manage multiple projects/tasks.\n\nAbility to work independently and possess superior skills in issue resolution.\n\nShould have the passion to learn and implement, analyse and troubleshoot issues\n\nBenefits/Culture @ Digit88:\n\nComprehensive Insurance (Life, Health, Accident)\n\nFlexible Work Arrangements/Remote Work\n\nAccelerated learning & non-linear growth\n\nFlat organization structure driven by ownership and accountability\n\nGlobal Peers - Working with some of the best engineers/professionals globally from the likes of Apple, Amazon, IBM on the worlds top most Conversational AI platform.\n\nAbility to make a global impact with your work, leading innovations in Conversational AI", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DhALW2bxzfw3fttPeAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "3_CbnVPNiCJ3S6yRAAAAAA==", "job_title": "Software Engineer Senior (Java, API)", "employer_name": "FIS Global", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUT4LOgxmcCh-URBiKxaV5sLd0f_SH3e138ux&s=0", "employer_website": "https://www.fisglobal.com", "job_publisher": "Careers At FIS Global - FIS", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0291935EXTERNAL/Software-Engineer-Senior-Java-API?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "Careers At FIS Global - FIS", "apply_link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0291935EXTERNAL/Software-Engineer-Senior-Java-API?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "EPAM", "apply_link": "https://www.epam.com/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "NetApp Careers", "apply_link": "https://careers.netapp.com/job/bengaluru/senior-software-engineer-java-cloud/27600/79351673840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "EPAM", "apply_link": "https://careers.epam.ua/vacancies/job-listings/job-detail.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "EPAM", "apply_link": "https://careers.epam.hu/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "EPAM", "apply_link": "https://careers.epam-poland.pl/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "The Muse", "apply_link": "https://www.themuse.com/jobs/epamsystems/senior-software-engineer-java-angular-924dff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": true}, {"publisher": "Glassdoor", "apply_link": "https://www.glassdoor.co.in/job-listing/senior-software-engineer-java-node-js-lseg-london-stock-exchange-group-JV_IC2940587_KO0,37_KE38,70.htm?jl=1009686023968&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Position Type :\nFull time\n\nType Of Hire :\nExperienced (relevant combo of work and education)\n\nEducation Desired :\nBachelor of Computer Engineering\n\nTravel Percentage :\n0%\n\nAre you curious, motivated, and forward-thinking? At FIS you\u2019ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun.\n\nAbout the team:\n\nFIS is looking to add an energetic, talented, and experienced IST API developer to our growing team. IST/Switch is a multi-channel, open-systems transaction switching platform that has been adopted by many of the world's leading financial institutions and national switches, to provide 24\u00d77 transaction processing, ATM and POS driving.\n\nWhat you will be doing:\n\u2022 Design, code, test, implement, maintain and support applications software that is delivered on time and within budget.\n\u2022 Work closely with customers, business analysts and team members to understand business requirements that drive analysis and design of quality technical solutions ensuring alignment with business and IT strategies and complying with FIS architectural standards.\n\u2022 Provides application software development services or technical support typically in a defined project.\n\u2022 Develops program logic for new applications or analyzes and modifies logic in existing applications.\n\u2022 Codes, tests, debugs, documents, implements and maintains software applications.\n\nWhat you bring:\n\u2022 Overall experience of 5-10 years\n\u2022 5+ years of Development experience in Core JAVA and API development\n\u2022 Hands on experience in Java SE 8, Java EE, JSP Servlet, Spring Boot, RESTful Web Services\n\u2022 Build tool: Bit Bucket, SVN, GIT, Maven etc.\n\u2022 Strong analytical skills\n\u2022 Organizational and time management skills required (ability to juggle multiple priorities at a time)\n\nWhat we offer you:\n\u2022 An exciting opportunity be a part of World\u2019s Leading FinTech Product MNC\n\u2022 To be a part of vibrant team and to build up a career on core banking/payments domain\n\u2022 A multifaceted job with a high degree of responsibility and a broad spectrum of opportunities\n\u2022 A broad range of professional education and personal development possibilities \u2013 FIS is your final career step!\n\nPrivacy Statement\n\nFIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.\n\nSourcing Model\n\nRecruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.\n\n#pridepass", "job_is_remote": false, "job_posted_at": "3 days ago", "job_posted_at_timestamp": 1744848000, "job_posted_at_datetime_utc": "2025-04-17T00:00:00.000Z", "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D3_CbnVPNiCJ3S6yRAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "ZFtglWk3pY_LyHoKAAAAAA==", "job_title": "Protocol Developer", "employer_name": "Jobs Expert Pvt Ltd", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5FssnZI9eHpBJU39Mxsswl0ID71_CMck2MWR&s=0", "employer_website": null, "job_publisher": "Cutshort", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://cutshort.io/job/Protocol-Developer-Bengaluru-Bangalore-Jobs-Expert-Pvt-Ltd-NfoQqyUI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": true, "apply_options": [{"publisher": "Cutshort", "apply_link": "https://cutshort.io/job/Protocol-Developer-Bengaluru-Bangalore-Jobs-Expert-Pvt-Ltd-NfoQqyUI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": true}, {"publisher": "LinkedIn", "apply_link": "https://in.linkedin.com/jobs/view/senior-wired-network-protocol-developer-at-maimsd-technology-4177388230?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Instahyre", "apply_link": "https://www.instahyre.com/job-358120-network-protocol-developer-at-happiest-minds-technologies-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "BeBee", "apply_link": "https://in.bebee.com/job/325ce23840344ea909264f931b6beff9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Hirist", "apply_link": "https://www.hirist.tech/j/c-c-developer-network-configuration-protocol-5-19-yrs-1442533.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Trabajo.org", "apply_link": "https://in.trabajo.org/job-1940-ab6f6cc64f520efb11c38a299b65a27c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "WhatJobs", "apply_link": "https://en-in.whatjobs.com/gfj/113166537?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Learn4Good", "apply_link": "https://www.learn4good.com/jobs/bangalore/india/info_technology/4129255879/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Your tasks\n\u0131 Develop R&D signaling scenarios for 5G and LTE mobile\ntesting using a proprietary python based framework\n\u0131 Log analysis & script verification with customer prototypes\n\nYour qualifications:\n\u0131 Engineering Graduate [Computer science or Telecom ]\n\u0131 Knowledge of any one protocol layer is must \u2013 NAS ,\nRRC , RLC , MAC , PHY\n\u0131 Good understanding of 5G or LTE protocol domain\n\u0131 At least 2 years experience with any programming\nlanguage - C / C++ / Python\n\u0131 Experience using version control like GIT, Clear case\n\u0131 8 to 12 years in telecom domain\n\u0131 Excellent communication skill to work on customer\nprojects\n\nSimmi Anand", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DZFtglWk3pY_LyHoKAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_min_salary": null, "job_max_salary": null, "job_salary_period": "YEAR", "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "3dXklPrfaxkas1jmAAAAAA==", "job_title": "Java developer with springboot and microservices", "employer_name": "Natobotics", "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEB9Gq_3jNqMy2HvwAbJvuKoSPLcd9KJiw7--&s=0", "employer_website": "https://www.natobotics.com", "job_publisher": "LinkedIn", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://in.linkedin.com/jobs/view/java-developer-with-springboot-and-microservices-at-natobotics-4148785878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "LinkedIn", "apply_link": "https://in.linkedin.com/jobs/view/java-developer-with-springboot-and-microservices-at-natobotics-4148785878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "BeBee", "apply_link": "https://in.bebee.com/job/551ede03d0b2a3b8fa241137d05aa1e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Adzuna", "apply_link": "https://www.adzuna.in/details/5047439363?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Trabajo.org", "apply_link": "https://in.trabajo.org/job-3150-2ebcec62875b6606adb10a6b8b6f7dbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Jooble", "apply_link": "https://in.jooble.org/jdp/-8332458919933593946?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}, {"publisher": "Jobrapido.com", "apply_link": "https://in.jobrapido.com/jobpreview/8619772593093738496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Hi Jobseeker,\n\nWe are hiring java developer for our MNC client.\n\nLocation-Bengaluru, Chennai/Gurugram\n\nInterview Mode- Virtual\n\nExperience- 7+ yrs\n\nNotice Period- only immediate to 30days\n\nBelow I have mentioned the JD\n\u2022 Experience in development of production grade application and services in Java.\n\u2022 Hands on development experience in Java 8 , Spring Boot , Microservices.\n\u2022 Good knowledge on java 8 features - Collections , Generics , Authentication , Rest Api , multi-threading.\n\u2022 Knowledge about Agile and Scrum\n\nInterested candidates please share your resume to swati@natobotics.com with below details\n\nPancard no-\n\nDate of Birth -\n\nExperience-", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D3dXklPrfaxkas1jmAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "B3HzsV5XFKeDszGWAAAAAA==", "job_title": "Immediate Requirements for Sr.Software Engineers for MNC Company @ Bangalore Le Location", "employer_name": "Aarna HR Solutions Pvt Ltd", "employer_logo": null, "employer_website": null, "job_publisher": "SmartRecruiters Job Search", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://jobs.smartrecruiters.com/AarnaHRSolutionsPvtLtd/92867000-immediate-requirements-for-sr-software-engineers-for-mnc-company-bangalore-le-location?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "SmartRecruiters Job Search", "apply_link": "https://jobs.smartrecruiters.com/AarnaHRSolutionsPvtLtd/92867000-immediate-requirements-for-sr-software-engineers-for-mnc-company-bangalore-le-location?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Company Description\n\nGreetings!!!\n\nAarna Solutions is Bangalore based Human Resource Recruitment Company providing services to Various IT,ITES and Non- IT companies across India. Aarna Solutions strive towards hiring the best and the brightest talent in the industry. We hire individuals with a strong sense of pride in their performance, team spirit, and a desire to excel.\n\nCurrently we have openings for \"Sr.Software Engineer\" position with our MNC client @Bangalore\n\nAbout Company:\n\nOur client is a manufacturer of electronic interconnectors. They sells over 100,000 products, including everything from electrical and fiber optic interconnects solutions, to switches and application tooling. They supply a variety of industries, including the telecom, data com, computer and peripheral, automotive, premise wiring, industrial, consumer, medical and military markets.\n\nAbout Position:-\n\nPosition: \"Software Engineer\"\n\nExperience:- 3 to 6yrs\n\nWORK EXPERIENCE:\n\nMinimum 1-3 years of progressive software development experience with a strong understanding of hardware interfacing by using software design\n\nLocation:-Bangalore\n\nPRIMARY PURPOSE:\n\nDesign and develop software for RF/microwave electrical test systems used in the manufacturing of multi-gigabit cable assemblies based on standards such as Ethernet, Infiniband, Fibre Channel, PCIe, SAS, SATA, etc. Integration of custom designed circuit boards and mechanical fixtures with off-the-shelf test equipment such as digital sampling oscilloscopes, TDR modules and network analyzers. Analyze test data using statistical modeling tools and perform root cause analysis of rejected parts.\n\nEDUCATION:\n\u2022 B.E./B.Tech Degree in Computer Science (CSE) / Electronics & Communication (ECE) / Electrical & Electronic (EEE) / Instrumentation & Control (ICE) / Embedded Systems (ESE) Engineering\n\u2022 M.E./M.Tech Degree in Computer Science (CSE) / Electronics & Communication (ECE) / Electrical & Electronic (EEE) / Instrumentation & Control (ICE) / Embedded Systems (ESE) Engineering\n\nJob Description:\n\u2022 Develop complex software in C/C++, Python, TCL/TK, Visual Basic .net to extend and refine the capabilities of existing test systems across multiple manufacturing regions. Must coordinate software development activities with various teams, like product development, manufacturing, marketing, quality, etc.\n\u2022 Develop software that performs electrical testing of multi-gigabit cable assemblies, analyze data, identify critical to quality aspects of product design and manufacturing process, perform root cause / corrective action analysis and write reports to summarize findings.\n\u2022 Develop, modify, support and maintain ownership of software madules used for product testing and qualification across the product development and manufacturing.\n\u2022 Utilize software engineering tools such as configuration management systems, build processes, debuggers in the software development process\n\u2022 Create and execute test plans, conduct software reviews, perform system verification and validation, analyze and resolve failure modes and document results.\n\u2022 Create product and test system documentation, specifications and work instructions.\n\u2022 Understand, support, and contribute to TQM and Quality / Environmental Management Systems by following approved policies and procedures.\n\nSKILLS & ABILITIES:\n\u2022 Experience with compiled programming languages such as C/C++ and VB with the Microsoft .NET framework.\n\u2022 Experience with scripted programming languages such and TCL/TK and Python.\n\u2022 Demonstrated knowledge and understanding of standard techniques for software verication and valdation.\n\u2022 Ability to apply computer programming concepts to solve complex problems in a variety of programming environments.\n\u2022 Understanding of bug tracking software i.e JIRA\n\u2022 Strong verbal and written communication skills that demonstrate the ability to express complex technical concepts clearly and concisely with global teams.\n\u2022 Analytical ability to apply logical reasoning, test assumptions, observe results and make corrections\n\u2022 High proficiency using analytical tools such as Microsoft Word, Excel, Power Point and others as required.\n\nInterested candidates can revert with the updated CV with the following informations:\n\nCurrent CTC:\n\nExpected CTC:\n\nNotice period:\n\nReason for Job Change:\n\nAvailability for Interview:\n\nWith Regards,\n\nVaishnavi\n\nSr.HR Recruiter\n\nAarna HR Solutions Pvt Ltd\n\nMob No: 9108013329\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DB3HzsV5XFKeDszGWAAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113200", "job_onet_job_zone": "4"}, {"job_id": "62Evw3tyTe4AW4I9AAAAAA==", "job_title": "Qualcomm Bangalore Embedded Software team are hiring", "employer_name": "Qualcomm", "employer_logo": null, "employer_website": "https://www.qualcomm.com", "job_publisher": "InterviewChacha", "job_employment_type": "Full\u2013time", "job_employment_types": ["FULLTIME"], "job_apply_link": "https://www.interviewchacha.com/referral-jobs/16888/qualcomm-bangalore-embedded-software-team-are-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "job_apply_is_direct": false, "apply_options": [{"publisher": "InterviewChacha", "apply_link": "https://www.interviewchacha.com/referral-jobs/16888/qualcomm-bangalore-embedded-software-team-are-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic", "is_direct": false}], "job_description": "Qualcomm Bangalore Embedded Software team are hiring\n\nThe Software team in Bangalore is hiring for Automotive, CPU and ADAS areas!\n\nIf your profile matches with JD then send resume @ : [Visit interviewChacha.com to see email-id and apply]\n\n\u2022 3071183 Embedded Software Engineer (Audio)\n\n\u2022 3071189 Automotive Software Platform Engineer Senior (QNX)\n\n\u2022 3071185 Automotive Software Platform Lead Engineer Senior\n\n\u2022 3066944 Software CPU Lead Engineer Senior\n\n\u2022 3071308 CPU Software Engineer Senior\n\n\u2022 3072506 Computer Vision Engineer Senior\n\n\u2022 3072591 ADAS V&V Software Test Lead Engineer Senior\n\n\u2022 3069880 Senior Release Facilitation Engineer\n\n\u2022 3071536 Release Automation Engineer Senior\n\n\u2022 3064112 Principal Engineer -Java /Cloud\n\n\u2022 3071011 CPU DSP Staff Engineer\n\n\u2022 3066915 Automotive SW Systems -Senior Staff\n\n\u2022 3066914 V&V Vehicle System Test Lead - Staff\n\n\u2022 3072480 SAIL Platform Architect-Engineer, Senior Staff\n\nCheck all open position @ https://careers.qualcomm.com/careers (Filter by Bangalore/ Chennai / Noida /Hyderabad location)\n\nsearch by job id", "job_is_remote": false, "job_posted_at": null, "job_posted_at_timestamp": null, "job_posted_at_datetime_utc": null, "job_location": "Bengaluru, Karnataka", "job_city": "Bengaluru", "job_state": "Karnataka", "job_country": "IN", "job_latitude": 12.9715987, "job_longitude": 77.5945627, "job_benefits": null, "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D62Evw3tyTe4AW4I9AAAAAA%3D%3D&vssid=jobs-detail-viewer", "job_salary": null, "job_min_salary": null, "job_max_salary": null, "job_salary_period": null, "job_highlights": {}, "job_onet_soc": "15113300", "job_onet_job_zone": "4"}]}
+{
+  "status": "OK",
+  "request_id": "91afdc7d-0b3a-4774-836d-9778348f4cb7",
+  "parameters": {
+    "query": "software engineer jobs in MNCs at bangalore",
+    "page": 1,
+    "num_pages": 1,
+    "date_posted": "all",
+    "country": "in",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "PG0RG6pYwlWcUlweAAAAAA==",
+      "job_title": "Software Engineer (Java, Spring & Microservices)",
+      "employer_name": "Fragma Data Systems",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojpIJrKB8L1rzQqyN091QPYxD108HNkK2-c7G&s=0",
+      "employer_website": "https://fragmadata.com",
+      "job_publisher": "Cutshort",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://cutshort.io/job/Software-Engineer-Java-Spring-Microservices-Bengaluru-Bangalore-Fragma-Data-Systems-CsQmRhD0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Cutshort",
+          "apply_link": "https://cutshort.io/job/Software-Engineer-Java-Spring-Microservices-Bengaluru-Bangalore-Fragma-Data-Systems-CsQmRhD0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.in/details/2635526537?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Work Location: Indira Nagar, Bangalore\nWork Days: Sunday to Thursday OR Monday to Friday\nShift: Day Time\nWeek Off: Friday & Saturday OR Saturday & Sunday\n\nJD:\n\nDevelopment of applications in Java including:\nBuilding data processing platforms.\nDeveloping micro service-oriented applications (Mandatory).\nInteract with stakeholders of the applications being developed.\n\nDesired Candidate Profile:\nMust have experience in Java JEE, Spring Framework, Microservices (Mandator)\nExperience in SQL and JDBC\nExperience in build tools Maven, git\nExperience in Cloud Platforms AWS, Azure is a plus.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DPG0RG6pYwlWcUlweAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": "YEAR",
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "r-2xAkWefbTIqZ9SAAAAAA==",
+      "job_title": "Staff Software Engineer (Front End)",
+      "employer_name": "Intuit",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLPTq0ZdkmbDVudg_26E0tbjmyjcg5h5VZka3&s=0",
+      "employer_website": "https://www.intuit.com",
+      "job_publisher": "Instahyre",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.instahyre.com/job-366731-staff-software-engineer-front-end-at-intuit-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Instahyre",
+          "apply_link": "https://www.instahyre.com/job-366731-staff-software-engineer-front-end-at-intuit-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs.weekday.works",
+          "apply_link": "https://jobs.weekday.works/wayfair-software-engineer-ii-(front-end)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://in.bebee.com/job/bf9ed8aed98a0a5d5b36ad99748a49a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido.com",
+          "apply_link": "https://in.jobrapido.com/jobpreview/8707465173759164416?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Come join the Virtual Expert Platform (VEP) as a Staff Engineer, where you will lead technology innovation to build platforms at scale that help transform the lives of consumers, small businesses, and accountants by connecting our customers to experts across all Intuit product lines. VEP powers AI-driven expert networks and delivers GenAI-powered experiences.\n\nResponsibilities:\n\u2022 Gathering functional requirements, developing technical specifications, and project and test planning.\n\u2022 Designing/developing Applications, prototypes, or proofs of concepts (POC's).\n\u2022 Demonstrate tech leadership: Mentoring junior engineers, new team members, and applying technical expertise to challenging programming and design problems.\n\u2022 Ability to navigate Intuit towards Ecosystems and Platform to be a steward in visioning short- and long-term strategy, trade-offs across business and technology. Own the current and future state and drive delivery through clear and bite-sized steps.\n\u2022 Support execution teams with complex development and operational challenges through hands-on technical leadership via code design and contributions\n\u2022 Applies left shift mindset and plays various roles of DEV, QE, and Ops throughout the development life cycle and owns the E2E quality of the deliverable.\n\u2022 Work cross-functionally with various Intuit teams: product management, various product lines, or business units to drive forward results.\n\u2022 Contribute to the design and architecture of the project.\n\nRequirements:\n\u2022 Hands-on coding.\n\u2022 Experience with Agile Development, SCRUM methodologies.\n\u2022 10+ years' experience architecting and designing SAAS offerings, leading design for web, software, or mobile applications.\n\u2022 Hands-on (50% time spent on coding/code reviews).\n\u2022 B. Tech/M. Tech in computer science or equivalent work experience.\n\u2022 Extensive experience working on modern front-end frameworks, React/Angular, and have an in-depth understanding of rendering performance.\n\u2022 Experience in the Domain-driven model and hexagonal architecture.\n\u2022 Experience with JavaScript/ TypeScript, CSS, and responsive design skills.\n\u2022 Extensive experience working on Morden front-end frameworks, React/Angular, and have an in-depth understanding of rendering performance. In addition, have experience working on AWS, RESTful or GraphQL-based web services with Java, Spring Boot, and DynamoDB.\n\u2022 Strong understanding of the software design/architecture process.\n\u2022 \"Self-starter\" attitude with a willingness to dive in and figure things out.\n\u2022 High Rigor on Operational and Engineering excellence.\n\u2022 Experience with leveraging, contributing to, and leading open source community projects.\n\u2022 Futuristic, strategic, and analytical thinker who is hypothesis-driven and uses data, judgment, and pattern recognition for learning and moving quickly.\n\u2022 Excellent communication and presentation skills: Demonstrated ability to explain complex issues to both technical and non-technical audiences.",
+      "job_is_remote": false,
+      "job_posted_at": "11 days ago",
+      "job_posted_at_timestamp": 1744156800,
+      "job_posted_at_datetime_utc": "2025-04-09T00:00:00.000Z",
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3Dr-2xAkWefbTIqZ9SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "9vIBMdCvTVFzgyx7AAAAAA==",
+      "job_title": "Software Engineer (Backend)",
+      "employer_name": "Qrata",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH78SIps09afDotFZ8W2aD88cYEsUr-D8Ce6C&s=0",
+      "employer_website": "https://www.qrata.ai",
+      "job_publisher": "Cutshort",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://cutshort.io/job/Software-Engineer-Backend-Bengaluru-Bangalore-Qrata-Thead6mp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Cutshort",
+          "apply_link": "https://cutshort.io/job/Software-Engineer-Backend-Bengaluru-Bangalore-Qrata-Thead6mp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Instahyre",
+          "apply_link": "https://www.instahyre.com/job-357243-software-engineer-backend-at-postman-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Company Overview:\n\nCompany is building a first-of-its-kind, lifestyle health product for Women in\nIndia. We believe that the future of health and fitness is digital, and women will drive the\ndigital fitness revolution in India. Existing digital health and fitness products are highly\ntransactional and we see a huge opportunity to build a truly aspirational product that will\ninspire and empower millions of women to lead healthier lives. If you are passionate about\nbuilding a product that blends together technology, content, and community, we would love\nto talk to you.\n\nEngineering:\n\nCompany is looking for results-oriented Engineers. An ideal candidate for us would be\na passionate builder of great products/frameworks and someone who would thrive in a\nfast-paced environment and enjoy the challenge of complex business contexts that are\ntypically being defined in real-time.\nIn this role, you will be responsible for building world-class technology products and\nplatforms that are at the forefront of the technology revolution in the Indian healthcare\necosystem. You are someone who insists on the highest standards for quality,\nmaintainability, and performance. You will be working in a fast-paced and agile work\nenvironment delivering quality solutions that have an immediate business impact.\n\nResponsibilities :\n\n\u25cf Research, design and build highly reliable, available, and scalable solutions that can\nhandle Millions of API calls across systems.\n\u25cf Own large technical deliverables and execute in a structured manner, complete\nownership of functional Services that your team is responsible for.\n\u25cf Take the accountability of the overall health of the products you build and\npredictability of the deliverables of your team\n\u25cf Lead by example, mentor and guide team members on everything from structured\nproblem solving to development of best practices\n\u25cf Platformize components as libraries, utilities and servicify and promote reuse.\n\u25cf Be able to conceptualize and develop prototypes quickly\n\u25cf Drive the technical roadmap of the team in collaboration with Product and Business\nTeams.\n\nRequirements:\n\n\u25cf BTech, MTech in Computer Science or a related technical discipline (or equivalent).\nOr high technical acumen and rich technical experience.\n\u25cf Deep expertise with any or combination programming languages: Java, Node.js,\nGolang, JavaScript, any object-oriented high-level proprietary or open-source\nlanguage with strong programming constructs. Substantial experience in building\ncomplex and scalable solutions.\n\u25cf Strong object-oriented design skills, ability to apply design patterns, and ability to\ndesign intuitive module and class-level interfaces\n\u25cf The ability to independently lead problem-solving and build elegant, maintainable\nsolutions to complex problems.\n\u25cf Experience leading multi-engineer projects and mentoring junior engineers\n\u25cf Experience with full life cycle development in any programming language on a Linux\nplatform\n\u25cf Prior experience in working with Agile software methodologies ( Scrum, Kanban),\nTDD, and Continuous Integration(CI/CD) a plus.\n\u25cf Experience in building data-driven web application design and development is a plus\n\u25cf Expert level experience in building a scalable, large, and complex business\napplication using some of the above technologies and mentoring junior engineers.\n\u25cf Track record of building and delivering mission-critical, 24x7 production software\nsystems",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D9vIBMdCvTVFzgyx7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": "YEAR",
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "mp40Ui8vtlafUCyLAAAAAA==",
+      "job_title": "Remote Software Jobs in Bangalore",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": "https://www.turing.com",
+      "job_publisher": "Turing",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.turing.com/jobs/remote-jobs-in-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-jobs-in-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We, at Turing, are looking for experienced full-stack developers who will be responsible for designing engaging user interactions, developing and deploying comprehensive databases, and ensuring the responsiveness and scalability of applications or websites. Here\u2019s your chance to collaborate with our global software engineering team with remote jobs in Bangalore and work with top U.S. companies.",
+      "job_is_remote": true,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1744848000,
+      "job_posted_at_datetime_utc": "2025-04-17T00:00:00.000Z",
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3Dmp40Ui8vtlafUCyLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "hALW2bxzfw3fttPeAAAAAA==",
+      "job_title": "Position title Senior Engineer- Java Platform Engineering (SDE2)",
+      "employer_name": "Digit88 Technologies",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRWyMCnFhzQ5X4-Rq-rCKJ3yRf5kHMDGuZokm&s=0",
+      "employer_website": "https://www.digit88.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/position-title-senior-engineer-java-platform-engineering-sde2-at-digit88-technologies-4074120432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/position-title-senior-engineer-java-platform-engineering-sde2-at-digit88-technologies-4074120432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Digit88\n\nDigit88 is a niche product engineering consulting company based out of Bangalore with experience of building offshore development centers for US startups and MNCs since 2014. The founding team has 50 years of product engineering and services experience out of India, China and the US.\n\nThe Opportunity\n\nDigit88 manages and is expanding the dedicated offshore product development team for its US (Bay Area, NYC) based NLP/Chatbot platform development partner, that is building a next-generation AI/NLP/Chatbots based customer engagement platform. The candidate would be joining an existing team of 45 engineers and help expand the Platform Engineering and Production Support services for our client, assume technical leadership of the highly scalable and available messaging platform that connects the conversational AI platform to human agents.\n\nJob Profile\n\nDigit88 is looking for an enthusiastic, self-motivated, hands-on Java/J2EE platform engineer to join the back-end platform engineering team for our partner. Experience with a fast-paced India/US product start-up or a product engineering services company in a developer role, building a high-performance real-time system is mandatory. Applicants having experience in developing and maintaining large scale messaging platforms are preferred. Applicants must have a passion for engineering with accuracy and efficiency, be highly motivated and organized, able to work as part of a team, and also possess the ability to work independently with minimal supervision.\n\nTo be successful in this role, you should possess\n\nBachelor's degree in Computer Science or a related field with 6-10 years hands-on experience with Java based open source tech stack\n\nExpertise in Core Java, Data Structures, J2EE with proven expertise in Spring MVC, Spring boot, Microservices architecture, Web Services (Rest) in distributed systems\n\nPractical experience with MySQL and/or NoSQL databases like Couchbase, DynamoDB, Cassandra\n\nPractical experience with Caching frameworks Memcached/Redis, Message Queues (JMS, RabbitMQ)\n\nExperience in building high performance, high availability REST APIs and REST clients\n\nExpertise with log file analysis using one or more of ELK, Splunk, Kibana\n\nPrior experience with CI/CD, Container architecture - Docker/Jenkins and build scripts Maven/Ant\n\nExperience with Kubernetes\n\nPrior Experience In Transformation To Cloud Platforms Is Preferred\n\nExperience with Kafka is a definite plus\n\nExperience with building analytics pipeline and analytics DB is a plus\n\nStrong practical experience in applying design patterns, multithreading concepts to solve complex problems, strong problem solving skills\n\nYou are someone who would easily be able to\n\nStudy and learn the latest in AI/NLP/Chatbots domain and the messaging platform\n\nWork closely with the US and India engineering teams to help build the Java/Spring based backend and REST APIs.\n\nClosely collaborate with the principal engineer in the India engineering team in technical excellence and ownership of critical modules; own the development of new modules and features\n\nTroubleshoot live production server issues; assume leadership responsibilities in the production issue resolution lifecycle\n\nHandle client coordination and be able to work as a part of a team, be able to contribute independently and drive the team to exceptional contributions with minimal team supervision\n\nPerform Unit Testing and Integration testing in a Continuous Deployment scenario\n\nFollow Agile methodology, JIRA for work planning, issue management/tracking\n\nAdditional Project/Soft Skills\n\nShould be able to work independently with India & US based team members.\n\nStrong verbal and written communication with ability to articulate problems and solutions over phone and emails.\n\nStrong sense of urgency, with a passion for accuracy and timeliness.\n\nAbility to work calmly in high pressure situations and manage multiple projects/tasks.\n\nAbility to work independently and possess superior skills in issue resolution.\n\nShould have the passion to learn and implement, analyse and troubleshoot issues\n\nBenefits/Culture @ Digit88:\n\nComprehensive Insurance (Life, Health, Accident)\n\nFlexible Work Arrangements/Remote Work\n\nAccelerated learning & non-linear growth\n\nFlat organization structure driven by ownership and accountability\n\nGlobal Peers - Working with some of the best engineers/professionals globally from the likes of Apple, Amazon, IBM on the worlds top most Conversational AI platform.\n\nAbility to make a global impact with your work, leading innovations in Conversational AI",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DhALW2bxzfw3fttPeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "3_CbnVPNiCJ3S6yRAAAAAA==",
+      "job_title": "Software Engineer Senior (Java, API)",
+      "employer_name": "FIS Global",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUT4LOgxmcCh-URBiKxaV5sLd0f_SH3e138ux&s=0",
+      "employer_website": "https://www.fisglobal.com",
+      "job_publisher": "Careers At FIS Global - FIS",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0291935EXTERNAL/Software-Engineer-Senior-Java-API?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Careers At FIS Global - FIS",
+          "apply_link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0291935EXTERNAL/Software-Engineer-Senior-Java-API?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "EPAM",
+          "apply_link": "https://www.epam.com/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "NetApp Careers",
+          "apply_link": "https://careers.netapp.com/job/bengaluru/senior-software-engineer-java-cloud/27600/79351673840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "EPAM",
+          "apply_link": "https://careers.epam.ua/vacancies/job-listings/job-detail.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "EPAM",
+          "apply_link": "https://careers.epam.hu/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "EPAM",
+          "apply_link": "https://careers.epam-poland.pl/careers/job-listings/job.epamgdo_blta786912da275eb40_en-us_Bangalore_India.senior-software-engineer-java-angular_bangalore_india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "The Muse",
+          "apply_link": "https://www.themuse.com/jobs/epamsystems/senior-software-engineer-java-angular-924dff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.in/job-listing/senior-software-engineer-java-node-js-lseg-london-stock-exchange-group-JV_IC2940587_KO0,37_KE38,70.htm?jl=1009686023968&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Position Type :\nFull time\n\nType Of Hire :\nExperienced (relevant combo of work and education)\n\nEducation Desired :\nBachelor of Computer Engineering\n\nTravel Percentage :\n0%\n\nAre you curious, motivated, and forward-thinking? At FIS you\u2019ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun.\n\nAbout the team:\n\nFIS is looking to add an energetic, talented, and experienced IST API developer to our growing team. IST/Switch is a multi-channel, open-systems transaction switching platform that has been adopted by many of the world's leading financial institutions and national switches, to provide 24\u00d77 transaction processing, ATM and POS driving.\n\nWhat you will be doing:\n\u2022 Design, code, test, implement, maintain and support applications software that is delivered on time and within budget.\n\u2022 Work closely with customers, business analysts and team members to understand business requirements that drive analysis and design of quality technical solutions ensuring alignment with business and IT strategies and complying with FIS architectural standards.\n\u2022 Provides application software development services or technical support typically in a defined project.\n\u2022 Develops program logic for new applications or analyzes and modifies logic in existing applications.\n\u2022 Codes, tests, debugs, documents, implements and maintains software applications.\n\nWhat you bring:\n\u2022 Overall experience of 5-10 years\n\u2022 5+ years of Development experience in Core JAVA and API development\n\u2022 Hands on experience in Java SE 8, Java EE, JSP Servlet, Spring Boot, RESTful Web Services\n\u2022 Build tool: Bit Bucket, SVN, GIT, Maven etc.\n\u2022 Strong analytical skills\n\u2022 Organizational and time management skills required (ability to juggle multiple priorities at a time)\n\nWhat we offer you:\n\u2022 An exciting opportunity be a part of World\u2019s Leading FinTech Product MNC\n\u2022 To be a part of vibrant team and to build up a career on core banking/payments domain\n\u2022 A multifaceted job with a high degree of responsibility and a broad spectrum of opportunities\n\u2022 A broad range of professional education and personal development possibilities \u2013 FIS is your final career step!\n\nPrivacy Statement\n\nFIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.\n\nSourcing Model\n\nRecruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.\n\n#pridepass",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1744848000,
+      "job_posted_at_datetime_utc": "2025-04-17T00:00:00.000Z",
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D3_CbnVPNiCJ3S6yRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "ZFtglWk3pY_LyHoKAAAAAA==",
+      "job_title": "Protocol Developer",
+      "employer_name": "Jobs Expert Pvt Ltd",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5FssnZI9eHpBJU39Mxsswl0ID71_CMck2MWR&s=0",
+      "employer_website": null,
+      "job_publisher": "Cutshort",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://cutshort.io/job/Protocol-Developer-Bengaluru-Bangalore-Jobs-Expert-Pvt-Ltd-NfoQqyUI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Cutshort",
+          "apply_link": "https://cutshort.io/job/Protocol-Developer-Bengaluru-Bangalore-Jobs-Expert-Pvt-Ltd-NfoQqyUI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/senior-wired-network-protocol-developer-at-maimsd-technology-4177388230?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Instahyre",
+          "apply_link": "https://www.instahyre.com/job-358120-network-protocol-developer-at-happiest-minds-technologies-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://in.bebee.com/job/325ce23840344ea909264f931b6beff9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Hirist",
+          "apply_link": "https://www.hirist.tech/j/c-c-developer-network-configuration-protocol-5-19-yrs-1442533.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Trabajo.org",
+          "apply_link": "https://in.trabajo.org/job-1940-ab6f6cc64f520efb11c38a299b65a27c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "WhatJobs",
+          "apply_link": "https://en-in.whatjobs.com/gfj/113166537?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/bangalore/india/info_technology/4129255879/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Your tasks\n\u0131 Develop R&D signaling scenarios for 5G and LTE mobile\ntesting using a proprietary python based framework\n\u0131 Log analysis & script verification with customer prototypes\n\nYour qualifications:\n\u0131 Engineering Graduate [Computer science or Telecom ]\n\u0131 Knowledge of any one protocol layer is must \u2013 NAS ,\nRRC , RLC , MAC , PHY\n\u0131 Good understanding of 5G or LTE protocol domain\n\u0131 At least 2 years experience with any programming\nlanguage - C / C++ / Python\n\u0131 Experience using version control like GIT, Clear case\n\u0131 8 to 12 years in telecom domain\n\u0131 Excellent communication skill to work on customer\nprojects\n\nSimmi Anand",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DZFtglWk3pY_LyHoKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": "YEAR",
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "3dXklPrfaxkas1jmAAAAAA==",
+      "job_title": "Java developer with springboot and microservices",
+      "employer_name": "Natobotics",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEB9Gq_3jNqMy2HvwAbJvuKoSPLcd9KJiw7--&s=0",
+      "employer_website": "https://www.natobotics.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/java-developer-with-springboot-and-microservices-at-natobotics-4148785878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/java-developer-with-springboot-and-microservices-at-natobotics-4148785878?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://in.bebee.com/job/551ede03d0b2a3b8fa241137d05aa1e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.in/details/5047439363?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Trabajo.org",
+          "apply_link": "https://in.trabajo.org/job-3150-2ebcec62875b6606adb10a6b8b6f7dbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://in.jooble.org/jdp/-8332458919933593946?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido.com",
+          "apply_link": "https://in.jobrapido.com/jobpreview/8619772593093738496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Hi Jobseeker,\n\nWe are hiring java developer for our MNC client.\n\nLocation-Bengaluru, Chennai/Gurugram\n\nInterview Mode- Virtual\n\nExperience- 7+ yrs\n\nNotice Period- only immediate to 30days\n\nBelow I have mentioned the JD\n\u2022 Experience in development of production grade application and services in Java.\n\u2022 Hands on development experience in Java 8 , Spring Boot , Microservices.\n\u2022 Good knowledge on java 8 features - Collections , Generics , Authentication , Rest Api , multi-threading.\n\u2022 Knowledge about Agile and Scrum\n\nInterested candidates please share your resume to swati@natobotics.com with below details\n\nPancard no-\n\nDate of Birth -\n\nExperience-",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D3dXklPrfaxkas1jmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "B3HzsV5XFKeDszGWAAAAAA==",
+      "job_title": "Immediate Requirements for Sr.Software Engineers for MNC Company @ Bangalore Le Location",
+      "employer_name": "Aarna HR Solutions Pvt Ltd",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "SmartRecruiters Job Search",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://jobs.smartrecruiters.com/AarnaHRSolutionsPvtLtd/92867000-immediate-requirements-for-sr-software-engineers-for-mnc-company-bangalore-le-location?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "SmartRecruiters Job Search",
+          "apply_link": "https://jobs.smartrecruiters.com/AarnaHRSolutionsPvtLtd/92867000-immediate-requirements-for-sr-software-engineers-for-mnc-company-bangalore-le-location?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Company Description\n\nGreetings!!!\n\nAarna Solutions is Bangalore based Human Resource Recruitment Company providing services to Various IT,ITES and Non- IT companies across India. Aarna Solutions strive towards hiring the best and the brightest talent in the industry. We hire individuals with a strong sense of pride in their performance, team spirit, and a desire to excel.\n\nCurrently we have openings for \"Sr.Software Engineer\" position with our MNC client @Bangalore\n\nAbout Company:\n\nOur client is a manufacturer of electronic interconnectors. They sells over 100,000 products, including everything from electrical and fiber optic interconnects solutions, to switches and application tooling. They supply a variety of industries, including the telecom, data com, computer and peripheral, automotive, premise wiring, industrial, consumer, medical and military markets.\n\nAbout Position:-\n\nPosition: \"Software Engineer\"\n\nExperience:- 3 to 6yrs\n\nWORK EXPERIENCE:\n\nMinimum 1-3 years of progressive software development experience with a strong understanding of hardware interfacing by using software design\n\nLocation:-Bangalore\n\nPRIMARY PURPOSE:\n\nDesign and develop software for RF/microwave electrical test systems used in the manufacturing of multi-gigabit cable assemblies based on standards such as Ethernet, Infiniband, Fibre Channel, PCIe, SAS, SATA, etc. Integration of custom designed circuit boards and mechanical fixtures with off-the-shelf test equipment such as digital sampling oscilloscopes, TDR modules and network analyzers. Analyze test data using statistical modeling tools and perform root cause analysis of rejected parts.\n\nEDUCATION:\n\u2022 B.E./B.Tech Degree in Computer Science (CSE) / Electronics & Communication (ECE) / Electrical & Electronic (EEE) / Instrumentation & Control (ICE) / Embedded Systems (ESE) Engineering\n\u2022 M.E./M.Tech Degree in Computer Science (CSE) / Electronics & Communication (ECE) / Electrical & Electronic (EEE) / Instrumentation & Control (ICE) / Embedded Systems (ESE) Engineering\n\nJob Description:\n\u2022 Develop complex software in C/C++, Python, TCL/TK, Visual Basic .net to extend and refine the capabilities of existing test systems across multiple manufacturing regions. Must coordinate software development activities with various teams, like product development, manufacturing, marketing, quality, etc.\n\u2022 Develop software that performs electrical testing of multi-gigabit cable assemblies, analyze data, identify critical to quality aspects of product design and manufacturing process, perform root cause / corrective action analysis and write reports to summarize findings.\n\u2022 Develop, modify, support and maintain ownership of software madules used for product testing and qualification across the product development and manufacturing.\n\u2022 Utilize software engineering tools such as configuration management systems, build processes, debuggers in the software development process\n\u2022 Create and execute test plans, conduct software reviews, perform system verification and validation, analyze and resolve failure modes and document results.\n\u2022 Create product and test system documentation, specifications and work instructions.\n\u2022 Understand, support, and contribute to TQM and Quality / Environmental Management Systems by following approved policies and procedures.\n\nSKILLS & ABILITIES:\n\u2022 Experience with compiled programming languages such as C/C++ and VB with the Microsoft .NET framework.\n\u2022 Experience with scripted programming languages such and TCL/TK and Python.\n\u2022 Demonstrated knowledge and understanding of standard techniques for software verication and valdation.\n\u2022 Ability to apply computer programming concepts to solve complex problems in a variety of programming environments.\n\u2022 Understanding of bug tracking software i.e JIRA\n\u2022 Strong verbal and written communication skills that demonstrate the ability to express complex technical concepts clearly and concisely with global teams.\n\u2022 Analytical ability to apply logical reasoning, test assumptions, observe results and make corrections\n\u2022 High proficiency using analytical tools such as Microsoft Word, Excel, Power Point and others as required.\n\nInterested candidates can revert with the updated CV with the following informations:\n\nCurrent CTC:\n\nExpected CTC:\n\nNotice period:\n\nReason for Job Change:\n\nAvailability for Interview:\n\nWith Regards,\n\nVaishnavi\n\nSr.HR Recruiter\n\nAarna HR Solutions Pvt Ltd\n\nMob No: 9108013329\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3DB3HzsV5XFKeDszGWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "62Evw3tyTe4AW4I9AAAAAA==",
+      "job_title": "Qualcomm Bangalore Embedded Software team are hiring",
+      "employer_name": "Qualcomm",
+      "employer_logo": null,
+      "employer_website": "https://www.qualcomm.com",
+      "job_publisher": "InterviewChacha",
+      "job_employment_type": "Full\u2013time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.interviewchacha.com/referral-jobs/16888/qualcomm-bangalore-embedded-software-team-are-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "InterviewChacha",
+          "apply_link": "https://www.interviewchacha.com/referral-jobs/16888/qualcomm-bangalore-embedded-software-team-are-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Qualcomm Bangalore Embedded Software team are hiring\n\nThe Software team in Bangalore is hiring for Automotive, CPU and ADAS areas!\n\nIf your profile matches with JD then send resume @ : [Visit interviewChacha.com to see email-id and apply]\n\n\u2022 3071183 Embedded Software Engineer (Audio)\n\n\u2022 3071189 Automotive Software Platform Engineer Senior (QNX)\n\n\u2022 3071185 Automotive Software Platform Lead Engineer Senior\n\n\u2022 3066944 Software CPU Lead Engineer Senior\n\n\u2022 3071308 CPU Software Engineer Senior\n\n\u2022 3072506 Computer Vision Engineer Senior\n\n\u2022 3072591 ADAS V&V Software Test Lead Engineer Senior\n\n\u2022 3069880 Senior Release Facilitation Engineer\n\n\u2022 3071536 Release Automation Engineer Senior\n\n\u2022 3064112 Principal Engineer -Java /Cloud\n\n\u2022 3071011 CPU DSP Staff Engineer\n\n\u2022 3066915 Automotive SW Systems -Senior Staff\n\n\u2022 3066914 V&V Vehicle System Test Lead - Staff\n\n\u2022 3072480 SAIL Platform Architect-Engineer, Senior Staff\n\nCheck all open position @ https://careers.qualcomm.com/careers (Filter by Bangalore/ Chennai / Noida /Hyderabad location)\n\nsearch by job id",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Bengaluru, Karnataka",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "IN",
+      "job_latitude": 12.9715987,
+      "job_longitude": 77.5945627,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=in&hl=en&udm=8#vhid=vt%3D20/docid%3D62Evw3tyTe4AW4I9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}
