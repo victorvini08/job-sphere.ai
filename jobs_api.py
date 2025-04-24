@@ -3,7 +3,7 @@ import json
 
 url = "https://jsearch.p.rapidapi.com/search"
 
-querystring = {"query":"software engineer jobs in MNCs at bangalore","page":"1","num_pages":"1","country":"in","date_posted":"all"}
+querystring = {"query":"software engineer jobs in MNCs at bangalore","page":"1","num_pages":"1","country":"IN","date_posted":"all"}
 
 headers = {
 	"x-rapidapi-key": "de07073447msh364f14163b92444p1fb8f4jsn4f742edaf713",
