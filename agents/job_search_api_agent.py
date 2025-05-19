@@ -1,57 +1,47 @@
-import pycountry
-import requests
+import json
+from serpapi import GoogleSearch
 from state import State
 
-def get_country_iso2(country_name):
-    country = pycountry.countries.get(name=country_name)
-    if country:
-        return country.alpha_2
-    else:
-        # Try alternative lookup if exact match not found
-        try:
-            return pycountry.countries.search_fuzzy(country_name)[0].alpha_2
-        except LookupError:
-            return None
-
-def fetch_jobs_jsearch_api(query_string):
-    url = "https://jsearch.p.rapidapi.com/search"
-
-
-    headers = {
-        "x-rapidapi-key": "de07073447msh364f14163b92444p1fb8f4jsn4f742edaf713",
-        "x-rapidapi-host": "jsearch.p.rapidapi.com"
+def fetch_jobs_serpapi(query, location, country):
+    """Fetch job listings using SerpAPI."""
+    search_query = f"{query} in {location}"
+    params = {
+        "engine": "google_jobs",
+        "q": search_query,
+        "hl": "en",
+        "api_key": "426ad51c92190895b323f36c127c593afca1ba34c6c00e17a39ef0fcccaa958c"
     }
-
-    response = requests.get(url, headers=headers, params=query_string)
-
-    jobs_json = response.json()
-    if jobs_json['status'] == "OK":
-        return jobs_json['data']
-    else:
-        raise Exception("Error occured in API call")
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results.get("jobs_results", [])
 
 def job_search_api_node(state: State):
-    print(state)
+    """Job search node that fetches jobs based on user preferences."""
     user_preferences = state["user_preferences"]
     role = user_preferences["role"]
-    loc_country = user_preferences["location"].split(',')
-    location, country = loc_country[0], loc_country[1]
-    query = f"{role} jobs in {location}"
-    country_code = get_country_iso2(country)
-    experience = user_preferences['experience']
-    exp_string = ""
-    if experience == 0:
-        exp_string = "no_experience"
-    elif experience <= 3:
-        exp_string = "under_3_years_experience"
-    else:
-        exp_string = "more_than_3_years_experience"
+    location, country = user_preferences["location"].split(',')
+    query = role.strip()
+    location = location.strip()
+    country = country.strip()
+
+    # Fetch jobs using SerpAPI
+    jobs_results = fetch_jobs_serpapi(query, location, country)
+
+    # Standardize job data for downstream agents
+    raw_jobs = []
+    for job in jobs_results:
+        standardized_job = {
+            "job_title": job.get("title", ""),
+            "employer_name": job.get("company_name", ""),
+            "job_description": job.get("description", ""),
+            "job_location": job.get("location", ""),
+            "job_apply_link": job.get("apply_options", [{}])[0].get("link", "")
+        }
+        raw_jobs.append(standardized_job)
+
+    # Save to file for debugging (optional)
+    with open('jobs_data.json', 'w') as file:
+        json.dump(raw_jobs, file)
     
-    query_string = {"query":query,"page":"1","num_pages":"1","country":country_code,
-                    "date_posted":"all","job_requirements": exp_string}
-
-    list_jobs = fetch_jobs_jsearch_api(query_string)
-
-    state['raw_jobs'] = list_jobs
-
+    state['raw_jobs'] = raw_jobs
     return state

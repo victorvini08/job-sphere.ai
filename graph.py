@@ -8,11 +8,11 @@ from agents.ranking_jobs_agent import ranking_jobs_node
 user_preferences = {
     "role": "Software Engineer",
     "experience": 3,
-    "skills": ["Python", "Django", "REST APIs", "AWS", "SQL"],
+    "skills": 'Python, Django, REST APIs, AWS, SQL',
     "salary": "10-15 LPA",
     "location": "Bangalore, India",
-    "company_size": "200-500 employees",
-    "company_description": "A fast-growing SaaS company focused on building cutting-edge solutions for the healthcare industry, fostering a culture of innovation, collaboration, and continuous learning."
+    "company_size": "200 employees",
+    "company_description": "Innovative, AI expert"
 }
 
 def create_graph():
@@ -30,5 +30,9 @@ def create_graph():
     graph.add_edge('RankingAgent', END)
     graph.set_entry_point('JobSearchAgent')
 
+    print("Graph has been created")
     return graph.compile()
 
+
+# graph = create_graph()
+# graph.invoke({"user_preferences": user_preferences})

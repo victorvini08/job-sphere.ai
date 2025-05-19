@@ -1,3 +1,10 @@
 langgraph
 streamlit
-pycountry
+sentence-transformers
+ollama
+transformers
+pandas
+flashtext
+serpapi
+google-search-results
+scikit-learn
