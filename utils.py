@@ -3,7 +3,7 @@ import ollama
 def job_details_llm_response(user_query: str, job_description: str, user_preferences):
 
     prompt = f"""You are an AI assistant helping with job-related queries. 
-                 Here is the job description: {job_description}. The user profile is given here: {str(user_preferences)}.
+                 Here is the job description: {job_description}.
                  The user asked below question: {user_query}. Please provide a concise response answering the user's query regarding the job details. Directly give the answer to the query as response nothing else."""
     
     response = ollama.chat(
