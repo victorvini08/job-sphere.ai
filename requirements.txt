@@ -8,3 +8,4 @@ flashtext
 serpapi
 google-search-results
 scikit-learn
+pypdf
