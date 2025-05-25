@@ -8,3 +8,4 @@ class State(TypedDict):
     raw_jobs : List[Dict]
     relevant_jobs : List[Dict]
     ranked_jobs : List[Dict]
+    job_summaries: Dict[Any, Any]
