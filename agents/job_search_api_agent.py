@@ -21,10 +21,16 @@ def job_search_api_node(state: State):
     """Job search node that fetches jobs based on user preferences."""
     user_preferences = state["user_preferences"]
     role = user_preferences["role"]
-    location, country = user_preferences["location"].split(',')
+    location_str = user_preferences['location']
+    if ',' in location_str:    
+        location, country = location_str.split(',')
+        location = location.strip()
+        country = country.strip()
+    else:
+        location = location_str
+        location = location.strip()
     query = role.strip()
-    location = location.strip()
-    country = country.strip()
+    
 
     #Fetch jobs using SerpAPI
     jobs_results = fetch_jobs_serpapi(query, location, country)
