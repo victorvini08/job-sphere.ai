@@ -3,7 +3,7 @@ from serpapi import GoogleSearch
 from state import State
 
 SERPAPI_API_KEY = "426ad51c92190895b323f36c127c593afca1ba34c6c00e17a39ef0fcccaa958c"
-def fetch_jobs_serpapi(query, location, country):
+def fetch_jobs_serpapi(query, location):
     """Fetch job listings using SerpAPI."""
     search_query = f"{query} in {location}"
     print("HELLOOOO")
@@ -33,7 +33,7 @@ def job_search_api_node(state: State):
     
 
     #Fetch jobs using SerpAPI
-    jobs_results = fetch_jobs_serpapi(query, location, country)
+    jobs_results = fetch_jobs_serpapi(query, location)
     # with open('jobs_data.json', 'r') as file:
     #     jobs_results = json.load(file)
 
